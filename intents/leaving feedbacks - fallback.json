@@ -1,0 +1,36 @@
+{
+  "id": "6ec92165-8e0d-41ea-a399-7f8538f7cac0",
+  "parentId": "f8c622db-c668-40c6-a254-f071bbd40cbf",
+  "rootParentId": "f8c622db-c668-40c6-a254-f071bbd40cbf",
+  "name": "leaving feedbacks - fallback",
+  "auto": false,
+  "contexts": [
+    "leavingfeedbacks-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "leavingfeedbacks.leavingfeedbacks-fallback",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thank you for using Shopee!"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -19,6 +19,18 @@
           "noInputPromptMessages": [],
           "outputDialogContexts": [],
           "isList": false
+        },
+        {
+          "id": "a64c9f33-37c6-479d-9d47-948f5832268e",
+          "required": false,
+          "dataType": "@find",
+          "name": "find",
+          "value": "$find",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
         }
       ],
       "messages": [
@@ -34,7 +46,12 @@
           "type": 0,
           "lang": "en",
           "condition": "",
-          "speech": "$any ah? Ok here"
+          "speech": [
+            "$any ah? Ok here",
+            "$any ah? Of course have",
+            "Ok auntie finding now",
+            "Auntie found some $any"
+          ]
         }
       ],
       "defaultResponsePlatforms": {

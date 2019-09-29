@@ -1,9 +1,65 @@
 [
   {
+    "id": "381c6d16-ed30-400b-af67-04ad83600808",
+    "data": [
+      {
+        "text": "i want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "bear",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b792f8d4-ab7b-4500-9119-7f7ba9360558",
+    "data": [
+      {
+        "text": "i am ",
+        "userDefined": false
+      },
+      {
+        "text": "looking",
+        "alias": "find",
+        "meta": "@find",
+        "userDefined": true
+      },
+      {
+        "text": " for a ",
+        "userDefined": false
+      },
+      {
+        "text": "ball",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
     "id": "c9bc0068-7f67-410a-8aa6-b4ef212b0e19",
     "data": [
       {
-        "text": "Can you look for ",
+        "text": "Can you ",
+        "userDefined": false
+      },
+      {
+        "text": "look",
+        "alias": "find",
+        "meta": "@find",
+        "userDefined": true
+      },
+      {
+        "text": " for ",
         "userDefined": false
       },
       {
@@ -25,7 +81,17 @@
     "id": "d8cea9e4-0770-4774-9a22-8a154057c01c",
     "data": [
       {
-        "text": "Can you help me find ",
+        "text": "Can you help me ",
+        "userDefined": false
+      },
+      {
+        "text": "find",
+        "alias": "find",
+        "meta": "@find",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
       },
       {
@@ -69,7 +135,17 @@
     "id": "66c800bd-54bc-4f7f-8317-ba13ad5f4e5a",
     "data": [
       {
-        "text": "i want to browse for a ",
+        "text": "i want to ",
+        "userDefined": false
+      },
+      {
+        "text": "browse",
+        "alias": "find",
+        "meta": "@find",
+        "userDefined": true
+      },
+      {
+        "text": " for a ",
         "userDefined": false
       },
       {
@@ -127,7 +203,17 @@
     "id": "f3f18685-8e86-4049-9523-1dd9345b3e6d",
     "data": [
       {
-        "text": "I want to see ",
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "see",
+        "alias": "find",
+        "meta": "@find",
+        "userDefined": true
+      },
+      {
+        "text": " ",
         "userDefined": false
       },
       {

@@ -1,0 +1,72 @@
+{
+  "id": "f8c622db-c668-40c6-a254-f071bbd40cbf",
+  "name": "leaving feedbacks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [
+        {
+          "name": "leavingfeedbacks-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [
+        {
+          "id": "b79cf75c-cafd-43d7-bf87-3fec5fdabe65",
+          "required": false,
+          "dataType": "@Feedback",
+          "name": "Feedback",
+          "value": "$Feedback",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "suggestion_chips",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "suggestions": [
+            {
+              "title": "The best la!"
+            },
+            {
+              "title": "Quite good"
+            },
+            {
+              "title": "Bad"
+            },
+            {
+              "title": "Very bad"
+            }
+          ]
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Tell auntie how you feel about the product!"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

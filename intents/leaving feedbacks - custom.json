@@ -1,0 +1,36 @@
+{
+  "id": "eea09ee2-bd85-4661-9b28-ad5f4c08e3e8",
+  "parentId": "f8c622db-c668-40c6-a254-f071bbd40cbf",
+  "rootParentId": "f8c622db-c668-40c6-a254-f071bbd40cbf",
+  "name": "leaving feedbacks - custom",
+  "auto": true,
+  "contexts": [
+    "leavingfeedbacks-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "leavingfeedbacks.leavingfeedbacks-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Don\u0027t angry ah, i help you scold him."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
