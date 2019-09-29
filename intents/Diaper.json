@@ -1,0 +1,66 @@
+{
+  "id": "dcabf669-1fd4-4181-98e6-46b54e5430a9",
+  "name": "Diaper",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bfbe5829-7b26-43ae-951f-8d1865af54a0",
+          "required": true,
+          "dataType": "@quickly",
+          "name": "quickly",
+          "value": "$quickly",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "bdb15363-7f3b-466b-8a85-e1b5c3af41bb",
+          "required": false,
+          "dataType": "@baby",
+          "name": "baby",
+          "value": "$baby",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "Diapers",
+          "url": "https://shopee.sg/-Pampers-Baby-Dry-Pants-x1-Carton-(4-Packs)-i.61475131.1002763675"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Auntie found some results on diapers"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

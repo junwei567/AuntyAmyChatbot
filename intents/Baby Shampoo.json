@@ -1,0 +1,66 @@
+{
+  "id": "745cf555-7f4b-43d1-b421-37ae779cd796",
+  "name": "Baby Shampoo",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ac550d04-2c09-481d-87e6-3e3a10cad568",
+          "required": false,
+          "dataType": "@baby",
+          "name": "baby",
+          "value": "$baby",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "dd303efb-176f-440e-86d2-c4ad853f2457",
+          "required": true,
+          "dataType": "@quickly",
+          "name": "quickly",
+          "value": "$quickly",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "Baby Shampoo",
+          "url": "https://shopee.sg/Johnson\u0027s-Baby-Active-Kids-Clean-Fresh-Shiny-Drops-(Powder-Bath-Shampoo-Conditioner)-100g-200ml-500ml-i.13448324.1002182867"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Auntie Amy went to find shampoo liao."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

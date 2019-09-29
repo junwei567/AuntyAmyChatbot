@@ -1,0 +1,9 @@
+{
+  "id": "342555b2-d67e-4b02-8e8d-7b57ead65338",
+  "name": "find",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

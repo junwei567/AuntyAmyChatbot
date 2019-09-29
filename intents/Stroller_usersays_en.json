@@ -1,0 +1,46 @@
+[
+  {
+    "id": "b8971adc-630c-4916-b851-d39e7d467323",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy a black pram",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "45cfd39f-746a-4798-ae6c-ac696a95eac1",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy a black stroller",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

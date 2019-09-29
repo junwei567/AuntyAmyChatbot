@@ -1,0 +1,58 @@
+{
+  "id": "94e28de4-47f5-4f23-94aa-6504d0ceb553",
+  "name": "Baby items",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "fcb08714-75b4-4847-b44b-5a802fc03204",
+          "required": true,
+          "dataType": "@baby",
+          "name": "baby",
+          "value": "$baby",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "Baby products",
+          "url": "https://shopee.sg/Toys-Kids-Babies-cat.12"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Found some stuff to buy for your baby. Which one you want?",
+            "I go find some stuff for babies, ok I found it liao",
+            "Here very good baby items. I send you link arh"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

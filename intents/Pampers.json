@@ -1,0 +1,66 @@
+{
+  "id": "1a5a47f4-5cd0-47dd-993d-9bb53a9a1a25",
+  "name": "Pampers",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "b4f7d3a9-78b1-4224-8192-2e9b5f9d300d",
+          "required": false,
+          "dataType": "@baby",
+          "name": "baby",
+          "value": "$baby",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "a10af720-9c80-4f4f-b9a6-cce120499b31",
+          "required": false,
+          "dataType": "@quickly",
+          "name": "quickly",
+          "value": "$quickly",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "Pampers",
+          "url": "https://shopee.sg/-Pampers-Premium-Care-Baby-Diapers-Tape-x1-Carton-(4-Packs)-i.61475131.1002763670"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Auntie is working hard to find you pampers, here you go..."
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

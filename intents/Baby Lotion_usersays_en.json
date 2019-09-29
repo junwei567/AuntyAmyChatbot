@@ -1,0 +1,24 @@
+[
+  {
+    "id": "8bc46b56-dcc8-4e7a-9843-b8467b8c92e7",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy baby lotion",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

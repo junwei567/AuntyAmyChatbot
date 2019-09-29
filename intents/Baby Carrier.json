@@ -1,0 +1,66 @@
+{
+  "id": "098a832c-8acc-4bc1-bfb4-3d6dc2f4759c",
+  "name": "Baby Carrier",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "3bcf4f9d-73fb-4b35-b155-191c83d35db1",
+          "required": false,
+          "dataType": "@baby",
+          "name": "baby",
+          "value": "$baby",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "89c6acc7-23f3-42a5-a9ee-d1cad75e4c30",
+          "required": true,
+          "dataType": "@quickly",
+          "name": "quickly",
+          "value": "$quickly",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "Baby Carrier",
+          "url": "https://shopee.sg/Manduca-Pure-Cotton-Baby-Carrier-Dark-Grey-i.3861712.2854892992"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Auntie Amy found a baby carrier"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

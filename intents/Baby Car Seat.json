@@ -1,0 +1,54 @@
+{
+  "id": "928e3af8-e154-4ee2-a09a-4271f3e50612",
+  "name": "Baby Car Seat",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "78001404-7038-4608-8533-5adf896ffdb9",
+          "required": true,
+          "dataType": "@quickly",
+          "name": "quickly",
+          "value": "$quickly",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": "link_out_chip",
+          "platform": "google",
+          "lang": "en",
+          "condition": "",
+          "destinationName": "Baby Car Seat",
+          "url": "https://shopee.sg/Lucky-Baby%C2%AE-Sitto%E2%84%A2-Isofix-Safety-Carseat-508152-i.951842.2871291776"
+        },
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Auntie Amy has found baby car seats"
+        }
+      ],
+      "defaultResponsePlatforms": {
+        "google": true
+      },
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

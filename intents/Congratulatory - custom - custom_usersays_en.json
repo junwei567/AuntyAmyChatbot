@@ -1,0 +1,62 @@
+[
+  {
+    "id": "1b1381dd-5e4e-4cfe-91a8-2094eb1694fb",
+    "data": [
+      {
+        "text": "not allergic to anything",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1cb5c8a8-c674-451b-a3f6-a7178295812b",
+    "data": [
+      {
+        "text": "Not lactose intolerant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "88d521ad-168a-4e09-b6ef-0365fb5e8316",
+    "data": [
+      {
+        "text": "No lactose problem",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e7e40c5b-d5cd-4094-8cee-e35055d69dc7",
+    "data": [
+      {
+        "text": "No allergy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e0c59f01-7a46-4b0a-afe4-dfd4218446cd",
+    "data": [
+      {
+        "text": "my child has no allergy to milk",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

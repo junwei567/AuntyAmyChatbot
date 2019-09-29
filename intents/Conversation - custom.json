@@ -1,0 +1,40 @@
+{
+  "id": "d754bd60-67d0-4abf-9e09-d090a6cd9633",
+  "parentId": "1ede70a5-6746-468c-ba7d-5349cbd4fefa",
+  "rootParentId": "1ede70a5-6746-468c-ba7d-5349cbd4fefa",
+  "name": "Conversation - custom",
+  "auto": true,
+  "contexts": [
+    "Conversation-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Conversation.Conversation-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": [
+            "Here is a list of items to buy for your baby: milk, baby clothing. Which one do you want?",
+            "Here\u0027s a list of items for babies: milk, baby clothes. Can you be more specific on what you want to buy?",
+            "Here are some of the suggested baby items: milk, baby clothes. Which type do u want to buy?"
+          ]
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

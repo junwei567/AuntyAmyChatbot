@@ -1,0 +1,34 @@
+[
+  {
+    "id": "5442231d-8a02-4d69-a2b3-981654923cf8",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy a ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": true
+      },
+      {
+        "text": " bolster",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

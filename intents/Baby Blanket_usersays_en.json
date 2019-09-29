@@ -1,0 +1,24 @@
+[
+  {
+    "id": "4ce3cbb4-82d3-4424-9f90-572a480faaba",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy baby blanket",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "id": "c5d80963-a959-4a83-a47f-d66a24ee9e6e",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy a red pacifier for my baby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b32fe97d-fc8c-4f82-b65b-ceec286b67a9",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy a orange pacifier",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "id": "33ed851b-e64b-425a-af1a-612c92017167",
+    "data": [
+      {
+        "text": "I want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": false
+      },
+      {
+        "text": " wash",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3bb85e21-27b0-4e07-b680-1445712c097f",
+    "data": [
+      {
+        "text": "I want to buy ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": true
+      },
+      {
+        "text": " shampoo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "id": "dc811146-898f-4be2-afe0-87a1a80b48f3",
+    "data": [
+      {
+        "text": "my child is born",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d925e306-2708-4a36-b92a-20d8cdac0acc",
+    "data": [
+      {
+        "text": "I just became a dad",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "bdef6e86-afbc-4e3f-ba76-4965639e0090",
+    "data": [
+      {
+        "text": "my wife just gave birth",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "0cee7f4f-cd53-4469-8bba-db85e95797e3",
+    "data": [
+      {
+        "text": "my wife just gave birth to a ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": false
+      },
+      {
+        "text": " girl",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d91e47fe-1fb0-466d-a027-cdeeb69d98b4",
+    "data": [
+      {
+        "text": "my wife just gave birth to a ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": true
+      },
+      {
+        "text": " boy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dce49393-7e53-4efc-aa38-5998de8005e4",
+    "data": [
+      {
+        "text": "I have a baby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "23e76f8c-748d-4f96-af2f-8b4e552a01f1",
+    "data": [
+      {
+        "text": "my wife is pregnant",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6cfba84c-e3e0-4dd2-86fe-39eec2bae92f",
+    "data": [
+      {
+        "text": "i just became a father",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

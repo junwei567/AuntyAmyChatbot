@@ -1,0 +1,30 @@
+[
+  {
+    "id": "797e7bec-e5b4-4121-a9d9-4363b24d38bb",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy ",
+        "userDefined": false
+      },
+      {
+        "text": "pampers",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

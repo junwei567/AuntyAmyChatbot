@@ -1,0 +1,144 @@
+[
+  {
+    "id": "c9bc0068-7f67-410a-8aa6-b4ef212b0e19",
+    "data": [
+      {
+        "text": "Can you look for ",
+        "userDefined": false
+      },
+      {
+        "text": "caps",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d8cea9e4-0770-4774-9a22-8a154057c01c",
+    "data": [
+      {
+        "text": "Can you help me find ",
+        "userDefined": false
+      },
+      {
+        "text": "shirts",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "39b7c0df-11fc-43a2-9e9a-35f1e6fac09c",
+    "data": [
+      {
+        "text": "Can you show me ",
+        "userDefined": false
+      },
+      {
+        "text": "shoes",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "66c800bd-54bc-4f7f-8317-ba13ad5f4e5a",
+    "data": [
+      {
+        "text": "i want to browse for a ",
+        "userDefined": false
+      },
+      {
+        "text": "flower",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "a7588977-e294-4f93-9cf0-bf79d88b54a5",
+    "data": [
+      {
+        "text": "Show me ",
+        "userDefined": false
+      },
+      {
+        "text": "skateboard",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c3f64388-bf15-446e-a4c6-e301c25034d6",
+    "data": [
+      {
+        "text": "Do you have ",
+        "userDefined": false
+      },
+      {
+        "text": "skateboard",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f3f18685-8e86-4049-9523-1dd9345b3e6d",
+    "data": [
+      {
+        "text": "I want to see ",
+        "userDefined": false
+      },
+      {
+        "text": "skateboard",
+        "alias": "any",
+        "meta": "@sys.any",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

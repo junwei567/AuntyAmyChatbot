@@ -1,0 +1,34 @@
+[
+  {
+    "id": "6ec69263-14d4-4fc2-b1d7-c91fe895914f",
+    "data": [
+      {
+        "text": "I want to ",
+        "userDefined": false
+      },
+      {
+        "text": "quickly",
+        "alias": "quickly",
+        "meta": "@quickly",
+        "userDefined": true
+      },
+      {
+        "text": " buy ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": true
+      },
+      {
+        "text": " rocking chair",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "id": "6d6dda57-06c5-4098-87d9-e469480e651f",
+  "name": "quickly",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

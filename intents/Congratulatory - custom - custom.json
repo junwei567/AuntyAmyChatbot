@@ -1,0 +1,36 @@
+{
+  "id": "c21be676-e84d-40bd-8d51-2ee78e8bf471",
+  "parentId": "81e74d48-02f9-4307-9c50-0ba0416a0c60",
+  "rootParentId": "28f066a1-4007-4e71-8aac-d4f10968425d",
+  "name": "Congratulatory - custom - custom",
+  "auto": true,
+  "contexts": [
+    "Congratulatory-custom-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Congratulatory.Congratulatory-custom.Congratulatory-custom-custom",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Ok, auntie here will help you find your item. Here you go..."
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

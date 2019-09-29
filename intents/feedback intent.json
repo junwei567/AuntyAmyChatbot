@@ -1,0 +1,50 @@
+{
+  "id": "de87bda2-0643-41dc-8840-a4826b489397",
+  "name": "feedback intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7dd6d622-0e4d-46b2-8c1e-426dca357895",
+          "required": true,
+          "dataType": "@Feedback",
+          "name": "Feedback",
+          "value": "$Feedback",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Ok sure! On a scale of 1 to 5, what do you think of the product?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": "Thank you for your feedback ah! We will pass it on to the seller"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

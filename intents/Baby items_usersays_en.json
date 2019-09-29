@@ -1,0 +1,60 @@
+[
+  {
+    "id": "983e1378-8e00-4d07-8384-8ef280ae3cfe",
+    "data": [
+      {
+        "text": "items for my ",
+        "userDefined": false
+      },
+      {
+        "text": "newborn",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "47c066e8-d90c-4d83-8b38-d5c2bbe4d8c1",
+    "data": [
+      {
+        "text": "i want to buy something for my ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b831d62f-d19c-4b03-85ac-edc84712c553",
+    "data": [
+      {
+        "text": "what do i need to buy for the ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

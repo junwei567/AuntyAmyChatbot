@@ -1,0 +1,68 @@
+[
+  {
+    "id": "3acf1549-fc03-464d-b0b9-c083238efbcd",
+    "data": [
+      {
+        "text": "Can help me find ",
+        "userDefined": false
+      },
+      {
+        "text": "infant",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": false
+      },
+      {
+        "text": " goods?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "b84f1e7f-ec63-49c2-9ab1-8d75ac2e2918",
+    "data": [
+      {
+        "text": "I need to know what kind of ",
+        "userDefined": false
+      },
+      {
+        "text": "baby",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": false
+      },
+      {
+        "text": " products to buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f9a49395-df47-4ec3-a84c-0e9ed1c51309",
+    "data": [
+      {
+        "text": "my child is just ",
+        "userDefined": false
+      },
+      {
+        "text": "born",
+        "alias": "baby",
+        "meta": "@baby",
+        "userDefined": true
+      },
+      {
+        "text": ", what do you suggest to buy",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

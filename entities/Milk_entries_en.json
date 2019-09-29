@@ -1,0 +1,26 @@
+[
+  {
+    "value": "Soy Milk",
+    "synonyms": [
+      "Soy Milk"
+    ]
+  },
+  {
+    "value": "Hydrolysed Milk",
+    "synonyms": [
+      "Hydrolysed Milk"
+    ]
+  },
+  {
+    "value": "Cow Milk",
+    "synonyms": [
+      "Cow Milk"
+    ]
+  },
+  {
+    "value": "Goat Milk",
+    "synonyms": [
+      "Goat Milk"
+    ]
+  }
+]
